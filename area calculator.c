@@ -1,4 +1,6 @@
 //area calculator
+
+//this is for github practice
 #include<stdio.h>
 int main()
 {
